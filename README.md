@@ -7,4 +7,9 @@ Problemy rozwiązane:
 Jednoznaczne API, dwa rodzaje komunikatów - z odpowiedzią i bez odpowiedzi  
 Jednolita obsługa błędów i zamykania aplikacji.  
 Enkapsulacja komunikacji  
-Moduły singleton oraz wieloinstancyjne   
+Moduły singleton oraz wieloinstancyjne     
+
+License:  
+MIT License  
+Copyright (c) [2020] [Bartlomiej Paszkiewicz]
+

@@ -16,10 +16,6 @@
 			<Item Name="DAQConfig.lvlib" Type="Library" URL="../Source/GUI/DAQConfig/DAQConfig.lvlib"/>
 			<Item Name="Chart.lvlib" Type="Library" URL="../Source/GUI/Chart/Chart.lvlib"/>
 		</Item>
-		<Item Name="tmp" Type="Folder">
-			<Item Name="tmp.lvlib" Type="Library" URL="../Source/tmp/tmp.lvlib"/>
-			<Item Name="tmpevent.lvlib" Type="Library" URL="../Source/tmp/tmpevent.lvlib"/>
-		</Item>
 		<Item Name="Communication.lvlib" Type="Library" URL="../Source/Communication/Communication.lvlib"/>
 		<Item Name="DAQ.lvlib" Type="Library" URL="../Source/DAQ/DAQ.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Source/Main.vi"/>
